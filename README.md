@@ -27,6 +27,6 @@ This project showcases fundamental concepts of C++ programming, including consol
 
 
 
-### Author
-*Author:* - Rujina Akther 
-- ID:222-115-227
+
+NAME:  Rujina Akther 
+ID:222-115-227
