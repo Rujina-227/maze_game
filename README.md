@@ -24,3 +24,9 @@ Avoid contact with the enemy character (E).
 Difficulty levels: H (Hard), N (Normal), E (Easy).
 Note:
 This project showcases fundamental concepts of C++ programming, including console input/output, array manipulation, and basic game logic implementation. It provides an opportunity for further enhancement with additional features and improvements.
+
+
+
+### Author
+*Author:* - Rujina Akther 
+- ID:222-115-227
